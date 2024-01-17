@@ -3,7 +3,7 @@
 import pandas as pd
 import seaborn as sns
 
-class DataPloting:
+class DataVisualization:
     def __init__(self):
         self.Title = "AirBnb Plot Interface"
 
